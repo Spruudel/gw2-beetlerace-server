@@ -1,6 +1,6 @@
-# gw2_beetlerace_server
+# gw2-beetlerace-server
 
-Websocket server to use with [gw2_speedometer](https://github.com/killer415tv/gw2_speedometer) and [gw2_beetlerace_overlay](https://github.com/Spruudel/gw2_beetlerace_overlay).
+Websocket server to use with [gw2_speedometer](https://github.com/killer415tv/gw2_speedometer) and [gw2-beetlerace-overlay](https://github.com/Spruudel/gw2-beetlerace-overlay).
 
 ## Usage
 
